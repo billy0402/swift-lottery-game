@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		CE387A7022E0BC8D00E728BE /* LotteryGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LotteryGame; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE387A7322E0BC8D00E728BE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CE387A7A22E0BCC600E728BE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 			children = (
 				CE387A7222E0BC8D00E728BE /* LotteryGame */,
 				CE387A7122E0BC8D00E728BE /* Products */,
+				CE387A7A22E0BCC600E728BE /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
